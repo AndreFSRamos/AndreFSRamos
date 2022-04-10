@@ -5,8 +5,8 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541992530774)
 
 <div>
-     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AndreFSRamos&show_icons=true&theme=dracula" >
-     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreFSRamos&layout=compact)](https://github.com/anuraghazra/github-readme-stats" >
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreFSRamos&show_icons=true&theme=dracula" >
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreFSRamos&layout=compact)](https://github.com/anuraghazra/github-readme-stats" >
 </div>    
 
 <div stely="display: inline_block"><br/>
